@@ -4,12 +4,12 @@ const CONFIG = {
   name: 'AstroWind',
 
   origin: 'https://deCloudify.github.io',
-  basePathname: '/',
+  basePathname: '/deCloudify.github.io/',
   trailingSlash: false,
 
-  title: 'AstroWind — Free template for create a website with Astro + Tailwind CSS',
+  title: 'Decloudify — building future of scalable and fed decloud infrasturcture ',
   description:
-    '🚀 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs.',
+    '🚀 Suitable for newcomers in the web3 who want to build their next app scale to millions of users.',
   defaultImage: defaultImage,
 
   defaultTheme: 'system', // Values: "system" | "light" | "dark" | "light:only" | "dark:only"
