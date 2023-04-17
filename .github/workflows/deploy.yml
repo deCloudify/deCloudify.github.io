@@ -28,10 +28,11 @@ jobs:
     #         #  package-manager: pnpm # The Node package manager that should be used to install dependencies and build your site. Automatically detected based on your lockfile. (optional)
       - name: building the site manually ().
         run: |
-            npm run prettify
             npm install
             npm run build
-            npm run deploy
+            npm run start
+            npm run format
+
 
 
 
