@@ -16,14 +16,8 @@ canonical: https://decloudify.github.io/decloud-101
 
 TODO: writing the comprehensive article.
 
-
 ## Current Progress of Cloud native ecosystem and bottlenecks.
 
-
-
-
-## Need of defining "landscape" of trustless cloud: 
-
-
+## Need of defining "landscape" of trustless cloud:
 
 ## Our main principles and future progress.

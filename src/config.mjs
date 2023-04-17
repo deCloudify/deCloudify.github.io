@@ -8,8 +8,7 @@ const CONFIG = {
   trailingSlash: false,
 
   title: 'Decloudify — building future of scalable and fed decloud infrasturcture ',
-  description:
-    '🚀 Suitable for newcomers in the web3 who want to build their next app scale to millions of users.',
+  description: '🚀 Suitable for newcomers in the web3 who want to build their next app scale to millions of users.',
   defaultImage: defaultImage,
 
   defaultTheme: 'system', // Values: "system" | "light" | "dark" | "light:only" | "dark:only"
