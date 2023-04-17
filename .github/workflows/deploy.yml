@@ -21,7 +21,7 @@ jobs:
       - name: Checkout your repository using git
         uses: actions/checkout@v3
       - name: building without github plugin
-        run: npm run build && npm run start
+        run:  npm i && npm run build && npm run start
       - name: Install, build, and upload your site
         uses: withastro/action@v0
         with:
